@@ -5,7 +5,7 @@ This is for the WUNDERBARE "Gebeş Kaplumbağa"🔥 Python Turtle Basic Fractals
 
 This code is a simple example and guide for those who want to produce fractals with the Python Turtle library or want to draw beautiful things in their dreams on the screen. This is the work I prepared with Turtle for **Wunderbare Turtle**.
 
-![Uygulama Ekran Görüntüsü](https://github.com/nordy/python-rich-console-weather-script/blob/main/screenshots/python_rich_weather_results_screen.jpg?text=Console+Results)
+![Uygulama Ekran Görüntüsü](https://github.com/nordy/python-turtle-basic-fractal-viking-algiz/blob/main/python-turtle-fractal-viking-algiz-rune.jpg?text=Console+Results)
 
 ## Installation & Setup
 
@@ -30,4 +30,4 @@ else
 ```bash
 $ python script.py
 ```
-![Uygulama Ekran Görüntüsü](https://github.com/nordy/python-rich-console-weather-script/blob/main/screenshots/python_rich_weather_help_screen.jpg?text=Console+Help+Screen)
+
