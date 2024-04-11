@@ -28,6 +28,6 @@ $ ./wunderbare-turtle.py
 else
 
 ```bash
-$ python script.py
+$ python wunderbare-turtle.py
 ```
 
